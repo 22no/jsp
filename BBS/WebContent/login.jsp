@@ -22,7 +22,7 @@
 			</div>
 			<div class ="collapse navbar-collapse" id = "bs-example-collapes-1">
 				<ul class = "nav navbar-nav">
-					<li><a href = "">홈페이지</a></li>
+					<li><a href = "http://www.bufs.ac.kr">홈페이지</a></li>
 				</ul>
 				<ul class ="nav navbar-nav navbar-right">
 					<li class = "dropdown">
